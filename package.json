@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"test" : "node index.js"
+	},
+	"type": "module",
+	"dependencies": {
+		"puppeteer": "^21.3.8"
+	}
+}
